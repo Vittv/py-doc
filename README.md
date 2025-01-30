@@ -1,1 +1,1 @@
-# Python Technical Documentation Page
+Python Technical Documentation Page
